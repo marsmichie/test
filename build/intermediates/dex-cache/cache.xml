@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.56.0.0/9622d6de1407dd3506254fb9b0292eb1206f6991/core-1.56.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9622d6de1407dd3506254fb9b0292eb1206f6991">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/core-1.56.0.0_f07592cc72c4291f64a27a7c8e1b2f5c97cfd95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.android/build-cache/62b057d564702507e41620cd77130f7f9750f4b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2aaa50907424ee21fa8068e570c78ac8da0dda29">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/classes_df82a212ada05a96ebe086c9fce5b724f916b86b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.android/build-cache/0abcbfdf3b4fa6f7b28c1e861042df280b5a262c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a11c5eeb40993d26b754f4fb3bc630cebecd154">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/classes_7c62c42a2dd91ae103d38b6f1e3b1513a53e9708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-studio-canary/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.56/bcprov-jdk15on-1.56.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a153c6f9744a3e9dd6feab5e210e1c9861362ec7">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/bcprov-jdk15on-1.56_3a93133a255d3c48045ae0c1c3bfe579f5559f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.7_52f2465b67ff3f4823b8ec8f3b9d92f6ea1e0e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.android/build-cache/ddaad167b8cb5527c1ff7eed020c25d743c2de6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbdcbe257dd14b1da1e4a5423e091146bc3a5abe">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/classes_03139e82238d03cd4d511682d6115f69b7e2710a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-studio-canary/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.56/bcpkix-jdk15on-1.56.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4648af70268b6fdb24674fb1fd7c1fcc73db1231">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/bcpkix-jdk15on-1.56_fde33d561bf6da87fdaa94c45aeffaa652bd2ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/c01428efa717624f7aabf4df319939dda9646b2d/jzlib-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01428efa717624f7aabf4df319939dda9646b2d">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/jzlib-1.1.3_b7aa510f1d37c47a1253aea417ba50711d9aa8e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.gradle/caches/modules-2/files-2.1/com.hierynomus/sshj/0.21.1/f071873bf16ede634d9d5adc6d18a1cb3f567bc3/sshj-0.21.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f071873bf16ede634d9d5adc6d18a1cb3f567bc3">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/sshj-0.21.1_b3cc8e82fac6528110bc1d88ef7fe5374e6ad819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.android/build-cache/cf955df78e59e0b9c6e405b66e5f12fcf897f302/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b083764f8464815158eadd4e3e2ee608259aa0c3">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/classes_ba2ccc91cdf0ebee5456ef27ae0342e62b8086e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.gradle/caches/modules-2/files-2.1/commons-net/commons-net/3.6/b71de00508dcb078d2b24b5fa7e538636de9b3da/commons-net-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b71de00508dcb078d2b24b5fa7e538636de9b3da">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/commons-net-3.6_9b7530cbe73c746391f4c12395c63da5d605f170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/archmichi/.gradle/caches/modules-2/files-2.1/net.i2p.crypto/eddsa/0.1.0/8f5a3b165164e222da048d8136b21428ee0b9122/eddsa-0.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f5a3b165164e222da048d8136b21428ee0b9122">
+        <dex dex="/home/archmichi/AndroidStudioProjects/prototyp_repo/protoyp/app/build/intermediates/pre-dexed/debug/eddsa-0.1.0_54f28d4814327a4811ba77f6bab15c839099fc50.jar" />
+    </item>
+
+</items>
